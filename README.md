@@ -2,3 +2,6 @@
 Practice with the MVC framework to better understand CSapp
 
 End Goal is to have a GUI that can be used to set up a math equation, execute it, and display the results
+
+resources used:
+https://docs.python.org/2/library/tkinter.html
